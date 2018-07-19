@@ -2,6 +2,6 @@
  * Public API Surface of contenttools
  */
 
-export * from './lib/contenttools.service';
-export * from './lib/contenttools.component';
-export * from './lib/contenttools.module';
+export * from './lib/content-tools.service';
+export * from './lib/content-tools.component';
+export * from './lib/content-tools.module';
