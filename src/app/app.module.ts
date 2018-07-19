@@ -7,7 +7,7 @@ import { MaterializeModule } from 'angular2-materialize';
 
 // ProcessPuzzle components
 import { AppComponent } from './app.component';
-import { ContentToolsModule } from 'angular2-contenttools';
+import { ContenttoolsModule } from 'angular2-contenttools';
 
 @NgModule({
   declarations: [
@@ -15,7 +15,7 @@ import { ContentToolsModule } from 'angular2-contenttools';
   ],
   imports: [
     BrowserModule,
-    ContentToolsModule,
+    ContenttoolsModule,
     MaterializeModule
   ],
   providers: [],

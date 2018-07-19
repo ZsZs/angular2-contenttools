@@ -1,10 +1,9 @@
 import { NgModule } from '@angular/core';
-import { ContentToolsComponent } from './contenttools.component';
+import { ContenttoolsComponent } from './contenttools.component';
 
 @NgModule({
-  imports: [
-  ],
-  declarations: [ContentToolsComponent],
-  exports: [ContentToolsComponent]
+  imports: [],
+  declarations: [ContenttoolsComponent],
+  exports: [ContenttoolsComponent]
 })
-export class ContentToolsModule { }
+export class ContenttoolsModule { }

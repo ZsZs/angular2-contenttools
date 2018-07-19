@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'a2c-main',
+  selector: 'doc-main',
   template: `
     <p>
       ContentTools works!
@@ -9,8 +9,8 @@ import { Component, OnInit } from '@angular/core';
   `,
   styles: []
 })
-export class ContentToolsComponent implements OnInit {
-
+export class ContenttoolsComponent implements OnInit {
+  greeting = 'Hello World';
   constructor() { }
 
   ngOnInit() {
